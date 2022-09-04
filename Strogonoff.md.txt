@@ -1,10 +1,12 @@
-# Strogonoff de frango #
+# Strogonoff de frango :chicken: #
+
+
 
 
 
 ### Ingredientes ###
 
-- 1 kg de filé-mignon (ou alcatra, patinho, coxão mole) em tiras (tempere com sal e pimenta a gosto)
+- _1 kg de filé-mignon (ou alcatra, patinho, coxão mole) em tiras (tempere com sal e pimenta a gosto)_
 - 2 colheres (sopa) de manteiga
 - 1 cebola grande picada
 - 200 g de champignon laminado
